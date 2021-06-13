@@ -1,33 +1,9 @@
 {
-  "posts": [
+  "Wallpapers": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "Url": "https://fsa.zobj.net/crop.php?r=yeI8rUYnGBQiTLK_r-Y3tzGjdrPz5Bx5aISipm371qV1oeW6vPlGRgQzlz1ZeS1qzyFfuLmlR95PXVM_qlGujGJ9h9HDGpSF8IikYKu_mrR6TKF_cp5yKpm5pwkWV5DnG20BeXivo3Ijc_td"
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    },
-    {
-      "id": 4,
-      "title": "Post 4"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+   
   ],
   "profile": {
     "name": "Divyang"
