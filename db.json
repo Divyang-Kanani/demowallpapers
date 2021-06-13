@@ -1,16 +1,8 @@
 {
-  "posts": [
+  "url": [
     {
       "id": 1,
-      "name": "Divyang"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "name": "www.google.com"
     }
   ],
   "comments": [
@@ -26,6 +18,6 @@
     }
   ],
   "profile": {
-    "name": "Divyang H Kanani K"
+    "name": "Divyang H Kanani"
   }
 }
