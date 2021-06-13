@@ -1,19 +1,12 @@
 {
-  "Url": [
-    {
-      "url": "https://fsa.zobj.net/crop.php?r=yeI8rUYnGBQiTLK_r-Y3tzGjdrPz5Bx5aISipm371qV1oeW6vPlGRgQzlz1ZeS1qzyFfuLmlR95PXVM_qlGujGJ9h9HDGpSF8IikYKu_mrR6TKF_cp5yKpm5pwkWV5DnG20BeXivo3Ijc_td"
-    }
-  ],
-  "comments": [
+  "WallpapersUrl": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "Url": "https://fsa.zobj.net/crop.php?r=yeI8rUYnGBQiTLK_r-Y3tzGjdrPz5Bx5aISipm371qV1oeW6vPlGRgQzlz1ZeS1qzyFfuLmlR95PXVM_qlGujGJ9h9HDGpSF8IikYKu_mrR6TKF_cp5yKpm5pwkWV5DnG20BeXivo3Ijc_td"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "Url": "https://fsb.zobj.net/crop.php?r=GF_0-e5m-Fp2CtN-M2Ga0yYR5--pMSorn86wDzag73xVBwgBo1M69aJVSe27sMK5cxw5Gk2vf3NhCgI9LiqYWLpA8jK7y53fAPBHfyYjJqUQ3ZWXzoICvJEzsSD-qfzBsiaSDvBxNrNbKnuH"
     }
   ],
   "profile": {
